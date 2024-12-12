@@ -42,7 +42,7 @@ class _ProductListScreenState extends State<ProductListScreen> {
   Future<void> fetchProducts() async {
     try {
       final response = await _dio.get(
-          'http://localhost:8080/products'); // Обновленный URL для твоего бэкенда
+          'http://192.168.26.252:8080/products'); // Обновленный URL для твоего бэкенда
       if (response.statusCode == 200) {
         setState(() {
           products = response.data;

@@ -29,6 +29,7 @@ var products = []Product{
 	{ID: 9, ImageURL: "https://basket-16.wbbasket.ru/vol2417/part241752/241752426/images/c516x688/2.webp", Name: "KGUMIHO баскетбольный мяч", Description: "Баскетбольный мяч 7 розовый", Price: 1568},
 	{ID: 10, ImageURL: "https://basket-12.wbbasket.ru/vol1704/part170444/170444976/images/c246x328/1.webp", Name: "Баскетбольный мяч 7 размер для улицы и зала", Description: "Баскетбольный мяч 7 размер для улицы и зала", Price: 1653},
 	{ID: 11, ImageURL: "https://basket-16.wbbasket.ru/vol2469/part246956/246956303/images/c516x688/1.webp", Name: "City-ride", Description: "Мяч баскетбольный, размер 7, диаметр 25см", Price: 775},
+	{ID: 12, ImageURL: "https://basket-13.wbbasket.ru/vol1975/part197511/197511423/images/c246x328/1.webp", Name: "Баскетбольная джерси", Description: "Баскетбольная форма детская Brooklyn Durant", Price: 912},
 }
 
 // Получить все продукты

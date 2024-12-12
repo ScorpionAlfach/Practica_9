@@ -1,0 +1,10 @@
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/CMakeFiles/INSTALL.dir
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/runner/CMakeFiles/flutter_application_8.dir
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+C:/SDK/flutter_windows_3.24.5-stable/Test/flutter_application_8/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
