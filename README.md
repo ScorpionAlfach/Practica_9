@@ -1,8 +1,8 @@
 # Practica_9 Запросы
 # Крояков Андрей ЭФБО-06-22
-![photo_2024-12-12_05-06-08](https://github.com/user-attachments/assets/817553e1-a85a-4172-9313-01b003470350)
-![photo_2024-12-12_05-06-05](https://github.com/user-attachments/assets/a709c379-2eac-477f-9072-2bbf8780ecb3)
-![photo_2024-12-12_05-06-02](https://github.com/user-attachments/assets/24480a01-8fe8-48ca-a4b3-7fe652e5375a)
-![photo_2024-12-12_05-05-58](https://github.com/user-attachments/assets/7be7c4a0-909a-4646-8932-59b7c0f52379)
-![photo_2024-12-12_05-05-52](https://github.com/user-attachments/assets/a30eb4ec-77cc-480c-b548-3aea7e379a52)
-![photo_2024-12-12_05-05-45](https://github.com/user-attachments/assets/e43a9975-f968-4cbb-934d-97bfdff8aa50)
+![photo_2024-12-12_10-34-36](https://github.com/user-attachments/assets/14fc65e2-6e04-42ea-afb5-ab38ee262781)
+![photo_2024-12-12_10-34-41](https://github.com/user-attachments/assets/d9e0d22b-fb2f-4c2f-919c-061f691a6ad8)
+![photo_2024-12-12_10-34-45](https://github.com/user-attachments/assets/a29f6dd7-21d7-4406-ad14-ad46913d9f36)
+![photo_2024-12-12_10-34-48](https://github.com/user-attachments/assets/266656a9-4cdf-4a67-bfdb-fe4c63c9458c)
+![photo_2024-12-12_10-34-51](https://github.com/user-attachments/assets/10459f27-f4f1-4d60-aeb9-67d052eba056)
+![photo_2024-12-12_10-34-54](https://github.com/user-attachments/assets/e21ea65c-ebc2-48eb-8925-186a97aa7032)
